@@ -2145,6 +2145,7 @@ footer{
 @media(max-width:768px){
 
     .nav-links{
+        display:flex;
 
         position:fixed;
 
